@@ -1,0 +1,94 @@
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\bin\Debug\مراقب الدوام.exe.config
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\bin\Debug\مراقب الدوام.exe
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\bin\Debug\مراقب الدوام.pdb
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Start.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Login.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Main.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.SplashScreen.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.UpdatePass.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\مراقب الدوام.csproj.GenerateResource.Cache
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\مراقب الدوام.exe
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\مراقب الدوام.pdb
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Students.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Stages.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Shobas.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Teachers.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.End.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.GStudents.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.GTeachers.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.ShowDataTeachers.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.ShowDataStudents.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.ShowDataDayTeachers.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.ShowDataDayStudents.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\bin\Debug\مراقب الدوام.exe.config
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\bin\Debug\مراقب الدوام.exe
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\bin\Debug\مراقب الدوام.pdb
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\مراقب الدوام.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.End.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.GTeachers.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.GStudents.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Shobas.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.ShowDataTeachers.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Stages.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Start.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Login.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Main.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.SplashScreen.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Teachers.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.UpdatePass.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Students.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.ShowDataDayTeachers.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.ShowDataStudents.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.ShowDataDayStudents.resources
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\مراقب الدوام.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\مراقب الدوام.exe
+C:\Users\Admin\Desktop\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\مراقب الدوام.pdb
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\bin\Debug\مراقب الدوام.exe.config
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\bin\Debug\مراقب الدوام.exe
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\bin\Debug\مراقب الدوام.pdb
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\مراقب الدوام.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\Monitor.End.resources
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\Monitor.GTeachers.resources
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\Monitor.GStudents.resources
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\Monitor.Shobas.resources
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\Monitor.ShowDataTeachers.resources
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\Monitor.Stages.resources
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\Monitor.Start.resources
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\Monitor.Login.resources
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\Monitor.Main.resources
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\Monitor.SplashScreen.resources
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\Monitor.Teachers.resources
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\Monitor.UpdatePass.resources
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\Monitor.Students.resources
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\Monitor.ShowDataDayTeachers.resources
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\Monitor.ShowDataStudents.resources
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\Monitor.ShowDataDayStudents.resources
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\مراقب الدوام.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\مراقب الدوام.exe
+C:\Users\Admin\Desktop\مشروع برنامج دوامي\المشروع\Monitor\obj\Debug\مراقب الدوام.pdb
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.ShowDataDayStudents2.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\مراقب الدوام.csprojResolveAssemblyReference.cache
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\bin\Debug\مراقب الدوام.exe.config
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\bin\Debug\مراقب الدوام.exe
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\bin\Debug\مراقب الدوام.pdb
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\مراقب الدوام.csprojResolveAssemblyReference.cache
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.End.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.GTeachers.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.GStudents.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Shobas.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.ShowDataTeachers.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Stages.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Start.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Login.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Main.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.SplashScreen.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Teachers.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.UpdatePass.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Students.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.ShowDataDayTeachers.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.ShowDataStudents.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.ShowDataDayStudents.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.ShowDataDayStudents2.resources
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\مراقب الدوام.csproj.GenerateResource.Cache
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\مراقب الدوام.exe
+D:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\مراقب الدوام.pdb

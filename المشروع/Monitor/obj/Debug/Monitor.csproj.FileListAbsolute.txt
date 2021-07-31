@@ -1,0 +1,15 @@
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\bin\Debug\Monitor.exe.config
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\bin\Debug\Monitor.exe
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\bin\Debug\Monitor.pdb
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.SplashScreen.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.csproj.GenerateResource.Cache
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.exe
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.pdb
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Login.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Main.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.UpdatePass.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Start.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.Employee.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.End.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\المشروع\Monitor\obj\Debug\Monitor.ShowData.resources

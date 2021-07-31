@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{5DF76FBE-928C-4EEF-920E-D9EBD57F0A71}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Monitor</RootNamespace>
+    <AssemblyName>مراقب الدوام</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <NoWin32Manifest>False</NoWin32Manifest>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <SignAssembly>False</SignAssembly>
+    <DelaySign>False</DelaySign>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <NoStdLib>False</NoStdLib>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <BaseAddress>4194304</BaseAddress>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MessagingToolkit.Barcode">
+      <HintPath>bin\Debug\MessagingToolkit.Barcode.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WebCam_Capture">
+      <HintPath>bin\Debug\WebCam_Capture.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="End.cs" />
+    <Compile Include="End.Designer.cs">
+      <DependentUpon>End.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GTeachers.cs" />
+    <Compile Include="GTeachers.Designer.cs">
+      <DependentUpon>GTeachers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="G‫Students.cs" />
+    <Compile Include="G‫Students.Designer.cs">
+      <DependentUpon>G‫Students.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shobas.cs" />
+    <Compile Include="ShowDataTeachers.cs" />
+    <Compile Include="ShowDataTeachers.Designer.cs">
+      <DependentUpon>ShowDataTeachers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stages.cs" />
+    <Compile Include="Stages.Designer.cs">
+      <DependentUpon>Stages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Start.cs" />
+    <Compile Include="Start.Designer.cs">
+      <DependentUpon>Start.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teachers.cs" />
+    <Compile Include="Teachers.Designer.cs">
+      <DependentUpon>Teachers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePass.cs" />
+    <Compile Include="UpdatePass.Designer.cs">
+      <DependentUpon>UpdatePass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyDateTimePicker.cs" />
+    <Compile Include="DataBase.cs" />
+    <Compile Include="Login.cs" />
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.cs" />
+    <Compile Include="SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs" />
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WebCam.cs" />
+    <Compile Include="Students.cs" />
+    <Compile Include="Students.Designer.cs">
+      <DependentUpon>Students.cs</DependentUpon>
+    </Compile>
+    <Compile Include="‫Shobas.Designer.cs">
+      <DependentUpon>Shobas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="‫ShowDataDayTeachers.cs" />
+    <Compile Include="‫ShowDataDayTeachers.Designer.cs">
+      <DependentUpon>‫ShowDataDayTeachers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="‫ShowDataStudents.cs" />
+    <Compile Include="‫ShowDataStudents.Designer.cs">
+      <DependentUpon>‫ShowDataStudents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="‫‫ShowDataDayStudents.cs" />
+    <Compile Include="‫‫ShowDataDayStudents.Designer.cs">
+      <DependentUpon>‫‫ShowDataDayStudents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="‫‫‫ShowDataDayStudents.Designer2.cs">
+      <DependentUpon>‫‫‫ShowDataDayStudents2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="‫‫‫ShowDataDayStudents2.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="End.resx">
+      <DependentUpon>End.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GTeachers.resx">
+      <DependentUpon>GTeachers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="G‫Students.resx">
+      <DependentUpon>G‫Students.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shobas.resx">
+      <DependentUpon>Shobas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowDataTeachers.resx">
+      <DependentUpon>ShowDataTeachers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stages.resx">
+      <DependentUpon>Stages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start.resx">
+      <DependentUpon>Start.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teachers.resx">
+      <DependentUpon>Teachers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePass.resx">
+      <DependentUpon>UpdatePass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Students.resx">
+      <DependentUpon>Students.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="‫ShowDataDayTeachers.resx">
+      <DependentUpon>‫ShowDataDayTeachers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="‫ShowDataStudents.resx">
+      <DependentUpon>‫ShowDataStudents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="‫‫ShowDataDayStudents.resx">
+      <DependentUpon>‫‫ShowDataDayStudents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="‫‫‫ShowDataDayStudents2.resx">
+      <DependentUpon>‫‫‫ShowDataDayStudents2.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
